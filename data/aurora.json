@@ -8,11 +8,11 @@
     "percentToQualify": 55,
     "password": "Not Copyable",
     "records": [
-{
-    "user": "qn2h",
-    "link": "https://www.youtube.com/watch?v=Z4XVt03BB2o",
-    "percent": 71,
-    "hz": 240 
-}
+        {
+            "user": "qn2h",
+            "link": "https://www.youtube.com/watch?v=Z4XVt03BB2o",
+            "percent": 71,
+            "hz": 360 
+        }
     ]
 }

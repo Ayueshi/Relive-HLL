@@ -1,0 +1,36 @@
+{
+    "id": 1161,
+    "name": "iHeart18",
+    "author": "ixkyu",
+    "creators": ["ixkyu"],
+    "verifier": "qn2h",
+    "verification": "https://youtu.be/StNBtUifXwg",
+    "percentToQualify": 48,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "SquawkGD",
+            "link": "https://youtu.be/Er1zhrH6q58",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "iavvn",
+            "link": "https://www.youtube.com/watch?v=DcH5jz675XA",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "roflel",
+            "link": "https://www.youtube.com/watch?v=a656SRIFi84",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Adelfa",
+            "link": "https://www.youtube.com/watch?v=J75-RnIwTPk",
+            "percent": 58,
+            "hz": 120
+        }
+    ]
+}

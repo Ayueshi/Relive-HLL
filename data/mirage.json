@@ -1,0 +1,42 @@
+{
+    "id": 1171,
+    "name": "Mirage",
+    "author": "Adelfa",
+    "creators": ["Adelfa"],
+    "verifier": "Adelfa",
+    "verification": "https://www.youtube.com/watch?v=mxU6Kne5rkE",
+    "percentToQualify": 45,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "roflel",
+            "link": "https://www.youtube.com/watch?v=klH6The0tmc",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Tr54",
+            "link": "https://www.youtube.com/watch?v=-bANA2rj0ms",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Tabbi",
+            "link": "https://youtu.be/GMtBHZWGJXw&t=218",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "ZaRy98",
+            "link": "https://www.youtube.com/watch?v=94e9DU6vt5k",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "qn2h",
+            "link": "https://youtu.be/TOKPV7iY5n8",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

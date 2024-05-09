@@ -1,0 +1,24 @@
+{
+    "id": 1399,
+    "name": "Project Isoceles",
+    "author": "souumpeixe",
+    "creators": ["souumpeixe"],
+    "verifier": "souumpeixe",
+    "verification": "https://www.youtube.com/watch?v=qI4e_y5vYVg",
+    "percentToQualify": 51,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "SquawkGD",
+            "link": "https://www.youtube.com/watch?v=QcTtWpm125Y",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "qn2h",
+            "link": "https://www.youtube.com/watch?v=SStqyUJSXe8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -1,5 +1,4 @@
-# The 3DashDemonList
+# relive hll list
 
-a list for 3Dash+ (and 3Dash 1.3 in the future)
-I *Redactedslair* is currently the only active maintainer of the list. 
-there will soon be more active maintainers of the list soon.
+a list for relivegdps
+qn2h is currently the only active maintainer of the list. 

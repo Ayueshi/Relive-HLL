@@ -1,5 +1,5 @@
-# relive hll list
+# rcl
 
-a list for relivegdps
+robot cl
 
-qn2h is currently the only active maintainer of the list. 
+me and dynamix maintain list

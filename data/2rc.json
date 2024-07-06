@@ -8,6 +8,17 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-        
+        {
+            "user": "MicrowavePerson",
+            "link": "https://youtu.be/tadz2ShBYbk?si=x_fAgt6t98Fyc71j&t=481",
+            "percent":100,
+            "hz": 240 
+        },
+        {
+            "user": "Duelo Maestro Guy",
+            "link": "https://youtu.be/skRhZ4kAyrU",
+            "percent": 100,
+            "hz": 60
+        },
     ]
 }

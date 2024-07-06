@@ -8,6 +8,17 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
-
+        {
+            "user": "MicrowavePerson",
+            "link": "https://youtu.be/tadz2ShBYbk?si=D62Qws4gtho0j1kZ&t=431",
+            "percent": 100,
+            "hz": 240 
+        },
+        {
+            "user": "Ayueshi",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
     ]
 }

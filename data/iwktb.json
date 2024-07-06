@@ -1,0 +1,36 @@
+{
+    "id": 106878571,
+    "name": "I wanna kill theBana",
+    "author": "Bananusa",
+    "creators": ["Bananusa"],
+    "verifier": "Bananusa",
+    "verification": "https://www.youtube.com/watch?v=J4127jaDSIs",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "MicrowavePerson",
+            "link": "https://youtu.be/tadz2ShBYbk?si=kd6WJvMBrVd_spkr&t=339",
+            "percent":100,
+            "hz": 240 
+        },
+        {
+            "user": "Ayueshi",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Water",
+            "link": "https://youtu.be/nxWUPQAAEYM?si=pgcIJPL6S-czeeu4&t=31",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DeceptiveGD",
+            "link": "https://youtu.be/nxWUPQAAEYM?si=pgcIJPL6S-czeeu4&t=31",
+            "percent": 100,
+            "hz": 60
+        },
+    ]
+}

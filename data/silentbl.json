@@ -1,1 +1,30 @@
-
+{
+    "id": 106865944,
+    "name": "Silent Banger level",
+    "author": "Soan9",
+    "creators": ["Soan9"],
+    "verifier": "Water",
+    "verification": "https://www.youtube.com/watch?v=EcZErR7byIU",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "MicrowavePerson",
+            "link": "https://youtu.be/tadz2ShBYbk?si=fHl0PEZv9Ku5BldN&t=379",
+            "percent":100,
+            "hz": 240 
+        },
+        {
+            "user": "Ayueshi",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Bananusa",
+            "link": "https://youtu.be/h5DLFeoq1H0?si=cp-YPTt3K_dzeqA6&t=32",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

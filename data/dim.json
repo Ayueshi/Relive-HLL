@@ -1,0 +1,18 @@
+{
+    "id": 107090531,
+    "name": "Dim",
+    "author": "Alfie",
+    "creators": ["Alfie"],
+    "verifier": "Alfie",
+    "verification": "https://www.youtube.com/watch?v=__3cwHOWlD8",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "MicrowavePerson",
+            "link": "https://youtu.be/y6pYFU-h_HU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

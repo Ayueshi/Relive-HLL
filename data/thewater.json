@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
-        
+        {
+            "user": "Phantom",
+            "link": "https://www.youtube.com/watch?v=OSoX6io6jkA",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

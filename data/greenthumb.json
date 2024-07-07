@@ -1,0 +1,18 @@
+{
+    "id": 107530329,
+    "name": "Green Thumb",
+    "author": "Monstrosity",
+    "creators": ["Monstrosity"],
+    "verifier": "Monstrosity",
+    "verification": "https://youtu.be/H7bJEPk4Isw",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Phantom",
+            "link": "https://www.youtube.com/watch?v=D1w7sQ3tsPI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 107529889,
+    "name": "Poisonous",
+    "author": "Zippiks",
+    "creators": ["Zippiks"],
+    "verifier": "Zippiks",
+    "verification": "https://youtu.be/X6RVv4THq5g",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Phantom",
+            "link": "https://www.youtube.com/watch?v=SMv6hG_5WxU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

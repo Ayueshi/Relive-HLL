@@ -1,0 +1,18 @@
+{
+    "id": 107526621,
+    "name": "Robot Force",
+    "author": "Monstrosity",
+    "creators": ["Monstrosity"],
+    "verifier": "Monstrosity",
+    "verification": "https://youtu.be/PsIB-vUpeHc",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Phantom",
+            "link": "https://www.youtube.com/watch?v=uYhNyde_Lkc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

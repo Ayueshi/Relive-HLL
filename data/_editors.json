@@ -18,5 +18,10 @@
         "role": "helper",
         "name": "Alfie",
         "link": "#"
+    },
+    {
+        "role": "helper",
+        "name": "MicrowavePerson",
+        "link": "#"
     }
 ]

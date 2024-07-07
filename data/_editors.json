@@ -1,12 +1,22 @@
 [
     {
         "role": "owner",
-        "name": "DynamixGD",
+        "name": "Ayueshi",
         "link": "#"
     },
     {
         "role": "helper",
-        "name": "Ayueshi",
+        "name": "Querta",
+        "link": "#"
+    },
+    {
+        "role": "helper",
+        "name": "Monstrosity",
+        "link": "#"
+    },
+    {
+        "role": "helper",
+        "name": "Alfie",
         "link": "#"
     }
 ]

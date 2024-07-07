@@ -2,4 +2,4 @@
 
 robot cl
 
-me and dynamix maintain list
+me and querta maintain list

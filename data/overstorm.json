@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
-        
+        {
+            "user": "whippedcreamcheekz",
+            "link": "https://www.youtube.com/watch?v=RiZslL-U5FQ",
+            "percent": 100,
+            "hz": 75
+        }
     ]
 }

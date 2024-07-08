@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=mvgvY1604bI",
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "Alfie",
+            "link": "https://www.youtube.com/watch?v=K3scXnbVxMY",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

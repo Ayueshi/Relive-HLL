@@ -22,7 +22,7 @@
         },
         {
             "user": "Alfie",
-            "link": "https://www.youtube.com/watch?v=Afhj17ZZ-TU?t=43",
+            "link": "https://www.youtube.com/watch?v=Afhj17ZZ-TU&t=43",
             "percent": 100,
             "hz": 144
         },
@@ -31,6 +31,12 @@
             "link": "https://youtu.be/RiZslL-U5FQ?si=9hGJU9W7WYHwCR7x&t=40",
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "Portal 3",
+            "link": "https://youtu.be/AU4EsX9t0Nc?si=3LTEcczttUZJCLEG&t=45",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

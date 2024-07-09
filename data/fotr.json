@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=AU4EsX9t0Nc",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Querta",
+            "link": "https://youtu.be/Jzk-nBYdJ2w?si=IWH_K97iqwVyORL1&t=90",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

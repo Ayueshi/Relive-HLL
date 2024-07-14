@@ -37,6 +37,13 @@
             "link": "https://youtu.be/Jzk-nBYdJ2w?si=IWH_K97iqwVyORL1&t=150",
             "percent": 100,
             "hz": 240
-        } 
+        },
+        {
+            "user": "KoffeeWithaK",
+            "link": "https://youtu.be/LAG02ot73Uc",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        }
     ]
 }
